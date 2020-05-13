@@ -9,4 +9,4 @@ def snake_it_up(string)
   end
 end
 
-shake_it_up('s')
+snake_it_up('s')
